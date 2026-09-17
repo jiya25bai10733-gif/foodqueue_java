@@ -154,5 +154,4 @@ This project demonstrates the implementation of a simplified canteen ordering an
 
 ## 👩‍💻 Author
 **Jiya Kalra**  
-CSE (AIML)  
-VIT Bhopal University
+
